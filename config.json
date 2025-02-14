@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://wadaria:wadaria@cluster0.kf2od.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
@@ -30,10 +30,10 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "INZEWORLD.COM (DE)",
-            "password": "saher.inzeworld.com",
-            "host": "lava.inzeworld.com",
-            "port": 3128,
+            "identifier": "AjieDev - Lavalink [Non SSL]",
+            "password": "https://dsc.gg/ajidevserver",
+            "host": "lava-v3.ajieblogs.eu.org",
+            "port": 80,
             "secure": false
           }
     }, 
